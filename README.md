@@ -42,7 +42,7 @@ These tools are often used together in a DevOps environment to improve the devel
 - [[Amazon ECS (Elastic Container Service):]() A container orchestration service in AWS]
 - [[Docker:]() Docker is a platform for developing, shipping, and running applications in containers. Containers provide a consistent and isolated environment for applications and their dependencies.]
 - [[Kubernetes:]() Kubernetes is an open-source container orchestration platform. It automates the deployment, scaling, and management of containerized applications, making it easier to manage containers in a clustered environment.]
-- [[Puppet, Chef, and Ansible:]()]
+
 
 
 
