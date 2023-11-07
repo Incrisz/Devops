@@ -9,3 +9,9 @@ git reset
 
 del .git\index
 git reset
+
+# push
+git init
+git add .
+git commit -m "hello"
+git push
