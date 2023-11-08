@@ -20,6 +20,8 @@ These tools are often used together in a DevOps environment to improve the devel
 
 ## Continuous Integration/Continuous Deployment (CI/CD) Tools:
 
+With CI/CD You can build, Test and Deploy
+
 - [[Travis CI:]() A CI/CD service that integrates with GitHub and other version control systems.]
 - [[CircleCI:]() A cloud-based CI/CD platform.]
 - [[GitLab CI/CD:]() Part of the GitLab platform, it provides integrated CI/CD capabilities.]
