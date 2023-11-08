@@ -7,7 +7,7 @@ https://github.com/Incrisz/portfolio-template.git
 # goto the github and create webhook 
 http://13.245.255.219:8080/github-webhook/
 # content type
-# application/json
+# application/ json
 # select individual event then select pull requests
 
 # in the server terminal
@@ -17,5 +17,7 @@ sudo groupadd www-data
 sudo usermod -aG www-data jenkins
 
 sudo newgrp www-data
+
 sudo chown jenkins:www-data html
 sudo chmod -R 2771 html
+
