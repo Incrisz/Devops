@@ -17,7 +17,7 @@ sudo groupadd www-data
 sudo usermod -aG www-data jenkins
 
 sudo newgrp www-data
-
+# test
 sudo chown jenkins:www-data html
 sudo chmod -R 2771 html
 
