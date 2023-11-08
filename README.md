@@ -28,7 +28,8 @@ stages : Source, build, test and deploy stage
 - [[GitLab CI/CD:]() Part of the GitLab platform, it provides integrated CI/CD capabilities.]
 - [[TeamCity:]() A CI/CD server by JetBrains.]
 - [[Jenkins:]() Jenkins is an open-source automation server that helps automate building, testing, and deploying software. It supports the creation of Continuous Integration/Continuous Deployment (CI/CD) pipelines and can integrate with various tools and plugins.]
--[Github Action]()
+- [[Github Action]()]
+- [[AWS CodePipeline]()]
 
 
 ## Automation and Configuration Management:
