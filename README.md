@@ -1,4 +1,6 @@
 ## AWS LEARNING [Stephane Maarek](https://www.youtube.com/@StephaneMaarek)
+## Hands on [AWS]
+https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all&awsf.getting-started-content-type=*all&awsm.page-getting-started-all=1
 
 ## AWS CLOUD PRACTITIONER 
 
