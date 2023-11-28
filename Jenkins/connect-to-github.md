@@ -21,3 +21,4 @@ sudo newgrp www-data
 sudo chown jenkins:www-data html
 sudo chmod -R 2771 html
 
+
