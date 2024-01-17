@@ -60,6 +60,11 @@ sudo docker-compose --version
 sudo usermod -aG docker $USER
 ```
 
+### 1.6. create a yaml file
+```bash
+sudo nano /opt/nginxproxymanager/docker-compose.yml
+```
+
 ## 2. Set up Nginx Proxy Manager
 
 ### 2.1. Create a new file `docker-compose.yml`file, please refer to the nginxproxymanager documentation: https://nginxproxymanager.com/guide/.
