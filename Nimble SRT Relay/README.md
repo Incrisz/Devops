@@ -38,5 +38,5 @@ Back to commands:
 
 13:	sudo ufw allow 55501:55520/udp\
 
-
+https://youtu.be/tGLNsWTPkwQ
 # https://docs.google.com/spreadsheets/d/1qXVGTwD0rPbaf8wafZ8OG3RTg1AaR916ojTyjU4Y57A/edit#gid=0
