@@ -1,0 +1,5 @@
+site:facebook.com  "Futminna" "@gmail.com"
+
+site:instagram.com  "Futminna" "@gmail.com"
+
+site:facebook.com  "NIger state" "@gmail.com"
